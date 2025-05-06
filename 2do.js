@@ -30,6 +30,7 @@ function addtask() {
         }
     }
     inputbox.value = "";
+    console.log("Something is nothung");
     savedata();
 }
 
