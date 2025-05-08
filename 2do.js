@@ -12,6 +12,7 @@ function addtask() {
             if (item.firstChild.textContent === inputbox.value.trim()) {
                 isDuplicate = true;
                 break;
+                consol.log("shyam")
             }
         }
 
