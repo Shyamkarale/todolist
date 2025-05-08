@@ -27,6 +27,7 @@ function addtask() {
             let span = document.createElement("span");
             span.innerHTML = "\u00d7";
             li.appendChild(span);
+            consol.log("spam")
         }
     }
     inputbox.value = "";
