@@ -13,6 +13,8 @@ function addtask() {
                 isDuplicate = true;
                 break;
                 consol.log("shyam")
+                consol.log("NEW")
+                
             }
         }
 
